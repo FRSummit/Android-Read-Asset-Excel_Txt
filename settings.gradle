@@ -1,0 +1,2 @@
+rootProject.name='Read From Text File'
+include ':app'
